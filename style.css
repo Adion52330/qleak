@@ -1,0 +1,13 @@
+#frm{
+    padding: 30px;
+    margin: 10px;
+}
+
+.frm-part{
+    padding: 10px;
+}
+
+.frm-part input, .frm-part select{
+    border-radius: 5px;
+    padding: 5px;
+}
